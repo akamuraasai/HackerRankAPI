@@ -21,7 +21,7 @@ This package consumes the Hacker Rank API, evaluating a given code and returning
  
  The `use_testcases()` is the only function working for now. More will come in a future update.
  
- #### List of Languages/Codes
+#### List of Languages/Codes
  
 | Code | Language     |
 |:----:|--------------|
