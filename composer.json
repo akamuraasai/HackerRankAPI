@@ -1,0 +1,21 @@
+{
+    "name": "akamuraasai/hackerrank_api",
+    "description": "A package to comunicate with Hacker Rank API.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jonathan Willian",
+            "email": "jonathan.willian.tod@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "AkamuraAsai\\HackerRankAPI\\": "src/HackerRankAPI"
+        }
+    },
+    "require": {
+        "php": ">=5.4.0"
+    }
+}
