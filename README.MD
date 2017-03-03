@@ -6,7 +6,7 @@ This package consumes the Hacker Rank API, evaluating a given code and returning
 
 #### How to use
  
- First you'll need a HackerRank API Key that's can be acquired [here](https://www.hackerrank.com/api/docs).
+ First you'll need a HackerRank API Key that can be acquired [here](https://www.hackerrank.com/api/docs).
  
  Make a copy of the ```.env.example``` file and rename it to ```.env```. 
  Inside the file, change the ```HACKERRANK_API_KEY``` value to your own key. 
